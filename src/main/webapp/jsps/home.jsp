@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
+<h2 align="center">Welcome to Landmark Technologies.</h2>
+<h2 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	           We are raising over 1m millionaires by 2030 by God grace.landmark the best
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance,we are the best in the world</h1>
+	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance,we are the best in the world</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
