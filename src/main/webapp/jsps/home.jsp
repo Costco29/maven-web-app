@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h2 align="center">Welcome to Landmark Technologies.</h2>
+<h2 align="center">Welcome to Landmark Testla project</h2>
 <h2 align="center">We are developing and supporting quality Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030 by God grace.landmark the best
+	           We are raising over 1m millionaires in IT.landmark the best
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance,we are the best</h2>
 <hr>
 <br>
